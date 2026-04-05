@@ -4,7 +4,7 @@ Production-grade Kubernetes deployment plans for two AI application scenarios �
 
 > **Course:** Panaversity — Kubernetes
 > **Project:** 02 — Kubernetes Deployment Planning
-> **Author:** Faisal
+> **Author:** Zeeshan Haider
 
 ---
 
